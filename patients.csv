@@ -1,0 +1,52 @@
+ID,Name,DOB,Email,Phone,Doctor,PatientType
+1,Cheryl Mckenzie,1996-12-18,coryprice@example.org,+1-539-880-4875x00654,Dr. Lee,Returning
+2,Jordan Davis,2002-02-28,ericastanley@example.org,(580)493-8833x36843,Dr. Lee,Returning
+3,Adam Dominguez,1973-10-09,sara81@example.net,8399718534,Dr. Smith,Returning
+4,Miguel Henderson,2004-07-11,elizabeth26@example.com,+1-579-913-0903x54578,Dr. Lee,New
+5,Daniel Campbell,1979-06-27,davidyates@example.org,640.800.7941x4195,Dr. Smith,New
+6,Ronald Herrera,1952-08-14,sandra10@example.com,(742)978-2453x31704,Dr. Smith,Returning
+7,Carol Johnson,2002-04-12,utucker@example.com,+1-424-366-6999,Dr. Johnson,Returning
+8,Rachael Phillips,1982-11-28,jessica84@example.net,477-844-7263,Dr. Lee,Returning
+9,Carl Perez,1984-03-22,richardmarquez@example.net,+1-668-787-8526x652,Dr. Smith,Returning
+10,Sara Torres,1970-12-06,timothythomas@example.org,(833)664-5636,Dr. Smith,New
+11,John Jones,1972-11-05,wendyadams@example.net,643.884.0434,Dr. Johnson,Returning
+12,Grace Wu,2007-07-15,kristine09@example.com,422.954.1002x46392,Dr. Johnson,Returning
+13,Amy Rogers,1973-05-25,barry44@example.org,+1-827-795-2012,Dr. Smith,Returning
+14,Alexa Owens,1996-01-01,william00@example.net,(782)647-5062x209,Dr. Johnson,New
+15,Michael Ford,1963-12-09,justinsteele@example.com,+1-965-285-9014x879,Dr. Johnson,New
+16,Rebecca Miller,1954-11-08,amy57@example.org,231-826-8221,Dr. Johnson,Returning
+17,Donald Marquez,1960-11-20,contrerasangela@example.net,322.553.8372x056,Dr. Johnson,New
+18,Kristen Stephens,1987-02-15,michaelpeters@example.net,582.897.6037x6272,Dr. Johnson,Returning
+19,Samantha Parks,1989-10-27,carneyjames@example.org,+1-598-655-0084x228,Dr. Smith,Returning
+20,Amber Williams,1968-01-10,ryanvaughn@example.org,9507400648,Dr. Johnson,Returning
+21,Kevin Kelly,2002-02-13,brianbrown@example.net,(338)403-6318,Dr. Johnson,Returning
+22,Jennifer Brooks,1948-12-27,joewhite@example.com,001-762-892-1154x2418,Dr. Smith,New
+23,Jennifer Zimmerman,1996-07-26,patricia46@example.net,821.957.0566,Dr. Johnson,Returning
+24,Daniel Rodriguez,1979-09-25,xrobertson@example.net,8943987827,Dr. Lee,Returning
+25,Christopher Terrell,1951-08-13,laceyking@example.com,(758)406-8576x80190,Dr. Johnson,New
+26,Nicole Wilson,1985-11-13,thomaschristina@example.com,001-575-332-5393,Dr. Lee,New
+27,Mackenzie Davis,2005-10-25,nathanbutler@example.net,437-560-8646,Dr. Johnson,Returning
+28,Misty Castaneda DDS,1996-10-28,carrbrandy@example.com,(742)676-5264x052,Dr. Lee,Returning
+29,Shane Anthony,1999-06-23,jillmartinez@example.net,001-972-833-5094x091,Dr. Lee,Returning
+30,Gary Hayes,1996-03-18,hwalker@example.net,576.871.6494x5425,Dr. Smith,New
+31,Brittany Lopez,1987-07-26,swansonmary@example.com,800-757-1592x9053,Dr. Johnson,New
+32,Stephanie Miller,1968-01-26,rwall@example.com,+1-415-989-6402x247,Dr. Smith,Returning
+33,Rachel Clark,1954-04-25,lwilson@example.com,001-834-293-7134,Dr. Johnson,New
+34,Marie Forbes,1991-09-19,ronald28@example.net,207-441-9009,Dr. Johnson,New
+35,Darren Mcguire,1945-01-09,christian39@example.net,947-833-8728,Dr. Johnson,New
+36,Gregory Harris,2001-10-07,jamie18@example.org,809-822-9871,Dr. Lee,New
+37,Kathy Patterson,1947-01-27,osmith@example.org,301.278.0914,Dr. Lee,Returning
+38,Kelsey Dyer,1987-06-09,tbuchanan@example.org,(573)850-0101,Dr. Lee,New
+39,Manuel Pineda,2006-08-31,pthomas@example.net,(766)335-8433,Dr. Smith,New
+40,Edward Caldwell,1983-02-25,kevinsmith@example.com,(581)277-3746,Dr. Smith,New
+41,Dr. Christopher Williams,1983-09-04,shawantonio@example.net,(739)958-7255x15577,Dr. Johnson,New
+42,Jonathan Oliver,1997-03-11,patricksheila@example.org,+1-325-305-6162,Dr. Johnson,New
+43,Marisa Rose,1974-01-19,melissa31@example.com,(382)730-9103x902,Dr. Johnson,New
+44,Cindy Rios,2005-10-18,fflores@example.com,517-377-2914x069,Dr. Johnson,Returning
+45,Brenda Jones,1970-10-10,rreid@example.com,771.860.7417,Dr. Johnson,New
+46,Elizabeth Rangel,1987-07-25,yhudson@example.com,(337)844-4768x519,Dr. Lee,Returning
+47,Alan Williams,1948-01-28,robertsonkelly@example.org,479-404-6383x8555,Dr. Smith,New
+48,Cathy Ward,1948-06-30,corteznicholas@example.com,+1-928-265-9488x469,Dr. Smith,New
+49,Taylor Anderson,1968-01-01,brookeramirez@example.com,797-993-0981x43109,Dr. Lee,Returning
+50,Joshua Scott,1946-11-23,iwright@example.net,3358017910,Dr. Lee,Returning
+
